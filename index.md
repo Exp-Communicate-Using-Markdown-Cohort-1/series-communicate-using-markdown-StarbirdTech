@@ -11,3 +11,8 @@ Here is some code to init a git repo:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+ And a demo task list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
